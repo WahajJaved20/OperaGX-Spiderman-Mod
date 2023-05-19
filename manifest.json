@@ -3,7 +3,7 @@
     "description": "SPIDERMAN_REMASTERED",
     "developer":
     {
-        "name": "WAHAJ JAVED"
+        "name": "WAHAJ JAVED x AYIHAN-UL-HAQ"
     },
     "icons":
     {
@@ -132,30 +132,30 @@
                 {
                     "gx_accent":
                     {
-                        "h": 85,
-                        "s": 100,
-                        "l": 72
+                        "h": 0,
+                        "s": 81,
+                        "l": 38
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 64,
-                        "l": 16
+                        "h": 232,
+                        "s": 51,
+                        "l": 34
                     }
                 },
                 "light":
                 {
                     "gx_accent":
                     {
-                        "h": 112,
-                        "s": 80,
-                        "l": 44
+                        "h": 0,
+                        "s": 81,
+                        "l": 38
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 32,
-                        "l": 16
+                        "h": 232,
+                        "s": 51,
+                        "l": 34
                     }
                 }
             },
